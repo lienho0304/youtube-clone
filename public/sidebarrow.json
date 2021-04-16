@@ -1,0 +1,20 @@
+{
+  "icons": [
+    {
+      "icon": "HomeIcon",
+      "name": "Trang chủ"
+    },
+    {
+      "icon": "ExploreIcon",
+      "name": "Khám phá"
+    },
+    {
+      "icon": "Subscription",
+      "name": "Kênh đăng kí"
+    },
+    {
+        "icon": "VideoLibraryIcon",
+        "name": "Thư viện"
+      }
+  ]
+}
